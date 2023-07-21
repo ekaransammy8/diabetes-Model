@@ -1,6 +1,5 @@
 darts==0.19.0
 elasticsearch==8.1.2
-fbprophet==0.7.1
 keras==2.8.0
 matplotlib==3.5.1
 numpy==1.25.1
